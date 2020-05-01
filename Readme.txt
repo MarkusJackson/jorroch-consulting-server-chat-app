@@ -9,4 +9,4 @@ Server-Re-Deploy
         git add .
         git commit -m 'another commit'
         git push heroku master
-        Unter https://jorroch-consulting-main.herokuapp.com/ prüfen
+        Unter https://jorroch-consulting-chat.herokuapp.com/ prüfen
